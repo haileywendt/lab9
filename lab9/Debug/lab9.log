@@ -1,0 +1,5 @@
+﻿  lab9.cpp
+H:\lab9\lab9\lab9.cpp(83,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+H:\lab9\lab9\lab9.cpp(123): warning C4715: 'isSortedDecreasing': not all control paths return a value
+H:\lab9\lab9\lab9.cpp(113): warning C4715: 'isSortedIncreasing': not all control paths return a value
+  lab9.vcxproj -> H:\lab9\Debug\lab9.exe
